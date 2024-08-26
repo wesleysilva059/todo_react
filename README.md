@@ -1,5 +1,5 @@
 # Projeto de estudo iniciais em React JS
-- sistema To Do com adicição, remoção de tarefas
+- sistema To Do com adição, remoção de tarefas
 - botão de conclusão
 - busca por nome da tarefa
 - filtros e ordenação.
