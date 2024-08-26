@@ -1,3 +1,10 @@
+# Projeto de estudo iniciais em React JS
+- sistema To Do com adicição, remoção de tarefas
+- botão de conclusão
+- busca por nome da tarefa
+- filtros e ordenação.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
